@@ -16,7 +16,6 @@
 
 ## 로그인 및 회원가입
 + 회원가입시 ID중복 및 유효성 검사
-
 ![다이나믹1](https://user-images.githubusercontent.com/107594290/192140020-1752e80f-072d-4f38-a9cb-f4bce5f10991.png)
 
 ## 예약 및 상담 기능
